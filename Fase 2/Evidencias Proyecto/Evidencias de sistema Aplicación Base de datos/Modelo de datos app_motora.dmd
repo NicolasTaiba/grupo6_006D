@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo de datos app_motora" id="BCC9A9A1-D7AF-1CAA-285E-DC2C4F38DCC6" version="3.5">
+<createdBy>mamas</createdBy>
+<createdTime>2024-09-23 15:05:05 UTC</createdTime>
+<ownerDesignName>Modelo de datos app_motora</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BCC9A9A1-D7AF-1CAA-285E-DC2C4F38DCC6</designId>
+</OSDM_Design>
